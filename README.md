@@ -1,5 +1,5 @@
 # get-the-apple
-Scratch game
+Game built using Scratch.mit.edu
 
 Bear needs apple
 
